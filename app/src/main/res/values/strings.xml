@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="nama_universitas">Nama Universitas</string>
+    <string name="dummy_text">Hercle, pars mirabilis!, domesticus magister!</string>
+    
+    <string-array name="data_name">
+        <item>Institut Pertanian Bogor</item>
+        <item>Universitas Indonesia</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Universitas Airlangga</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Institut Teknologi Sepuluh Nopember</item>
+        <item>Universitas Hasanuddin</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Padjadjaran</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Dengan skor 3,648 – klaster 1. Institut Pembangunan Bogor adalah perguruan tinggi berbentuk institut yang berada di provinsi Jawa Barat, tepatnya di kota Bogor. IPB lebih berfokus di bidang pertanian, meski banyak juga jurusan non-agragris.</item>
+        <item>Dengan skor 3.414 – klaster 1. Berikutnya dalam daftar perguruan tinggi terbaik di Indonesia adalah Universitas Indonesia atau UI. Letaknya berada di perbatasan kota Depok dan Jakarta, namun sering dianggap sebagai universitas di Jakarta.</item>
+        <item>Dengan skor 3.315 – klaster 1. Urutan universitas terbaik di Indonesia selanjutnya adalah Universitas Gajah Mada atau biasa disingkat UGM. Kampus UGM terletak di Yogyakarta dan sudah didirikan sejak tahun 1949.</item>
+        <item>Dengan skor 3.299 – klaster 1. Tak lengkap membahas daftar ranking universitas di Indonesia terbaru tanpa memasukkan universitas di Surabaya. Universitas Airlangga atau UNAIR mungkin paling pas jika disebut sebagai universitas terbaik di Surabaya.</item>
+        <item>Dengan skor 3.275 – klaster 1. Peringkat universitas terbaik di Indonesia dipegang ITB, singkatan dari Institut Teknologi Bandung. PTN di Bandung ini layak menjadi institut terbaik di Indonesia yang bergerak di bidang pengembangan teknik dan sains.</item>
+        <item>Dengan skor 3.218 – klaster 1. Satu lagi kampus negeri di Surabaya yang masuk 10 besar peringkat perguruan tinggi terbaik di Indonesia, apa lagi kalau bukan ITS. Singkatan dari ITS adalah Institut Teknologi Sepuluh Nopember dan terletak di daerah Sukolilo, Surabaya.</item>
+        <item>Dengan skor 3.161 – klaster 1. Tidak mau kalah dengan yang di jawa, Universitas Hasanuddin, masuk di daftar universitas terbaik. Universitas Hasanuddin yang kemudian disingkat UNHAS, merupakan sebuah perguruan tinggi negeri di kota Makassar, Provinsi Sulawesi Selatan, Indonesia, yang berdiri pada 10 September 1956.</item>
+        <item>Dengan skor 3.161 – klaster 1. Tidak mau ketinggalan dari universitas di surabaya, Universitas Brawijaya juga menjadi salah satu universitas terbaik di Jawa Timur. Universitas Brawijaya atau UB didirikan di tahun 1963 dan terletak di kota Malang.</item>
+        <item>Dengan skor 3.111 – klaster 1. UNDIP juga termasuk dalam urutan universitas terbaik se Indonesia ini. UNDIP atau Universitas Diponegoro terletak di kota Semarang, dan layak dianggap sebagai universitas terbaik di Jawa Tengah.</item>
+        <item>Dengan skor 3.007 – klaster 1. Tidak mau kalah dengan tetangganya ITB, Universitas Padjadjaran atau yang sering dikenal UNPAD menjadi universitas terbaik ke 10. UNPAD merupakan salah satu perguruan tinggi negeri yang terletak di Bandung, Jawa Barat, Indonesia.</item>
+    </string-array>
+    <string-array name="data_images">
+        <item>@drawable/ipb</item>
+        <item>@drawable/ui</item>
+        <item>@drawable/ugm</item>
+        <item>@drawable/unair</item>
+        <item>@drawable/itb</item>
+        <item>@drawable/its</item>
+        <item>@drawable/unhas</item>
+        <item>@drawable/ub</item>
+        <item>@drawable/undip</item>
+        <item>@drawable/unpad</item>
+    </string-array>
+</resources>
