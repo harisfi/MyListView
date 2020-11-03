@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+import de.hdodenhof.circleimageview.CircleImageView;
+
 public class UniversityAdapter extends BaseAdapter {
     private Context context;
     private ArrayList<University> universities = new ArrayList<>();
@@ -54,7 +56,7 @@ public class UniversityAdapter extends BaseAdapter {
     }
     private class ViewHolder {
         private TextView txName, txDescription;
-        private ImageView imageView;
+        private CircleImageView imageView;
 
         ViewHolder(View view) {
             txName = view.findViewById(R.id.tx_name);
